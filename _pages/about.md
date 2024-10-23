@@ -19,8 +19,8 @@ title: "test"
 excerpt: "test"
 author_profile: true
 redirect_from: 
-  - /publication/
-  - /publications.html
+  - /test/
+  - /test.html
 ---
 I'm a second-year graduate student at the [School of Automation](https://automation.seu.edu.cn/), [Southeast University](https://www.seu.edu.cn/). My research interests include computer vision, 3D vision, and embodied AI, with a current focus on 3D hand-object interaction and physics-based grasping.
 
