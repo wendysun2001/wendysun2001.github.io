@@ -16,17 +16,6 @@ I am very fortunate to be advised by [Prof. Yangang Wang](https://www.yangangwan
 Publications
 ======
 ---
-title: "Paper Title Number 1"
-collection: publications
-category: manuscripts
-permalink: /publication/paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).'
----
 
 <div style="display: flex; align-items: flex-start;">
   <div style="flex: 1;">
@@ -41,18 +30,6 @@ citation: 'Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1
   </div>
 </div>
 
----
-
-title: "Paper Title Number 2"
-collection: publications
-category: manuscripts
-permalink: /publication/paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).'
 ---
 
 <div style="display: flex; align-items: flex-start;">
