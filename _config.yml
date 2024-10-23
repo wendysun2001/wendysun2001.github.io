@@ -24,10 +24,9 @@ author:
   avatar           : "profile_swq.png"
   name             : "Wenqian Sun（孙雯倩）"
   # pronouns         : # example: "she/her"  
-  bio              : Researching Computer Vision, 3D Vision, and Embodied AI. Focus on 3D hand-object interaction and physics-based grasping.  Advised by Prof. Yangang Wang.  B.Eng. from UESTC.
+  bio              : Researching Computer Vision, 3D Vision, and Embodied AI. Focus on 3D hand-object interaction and physics-based grasping. 
   # location         : "Earth"
-  School         :  Southeast University (Graduate)
-                    University of Electronic Science and Technology of China (Undergraduate)
+  School         :  Southeast University (Graduate), University of Electronic Science and Technology of China (Undergraduate)
   # uri              : # URL
   email            : "wendysun0107@gmail.com" 
 
