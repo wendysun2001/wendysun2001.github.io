@@ -13,7 +13,7 @@ citation: 'Buzhen Huang, Chen Li, Chongyang Xu, Liang Pan, Yangang Wang, Gim Hee
 
 <div style="display: flex; align-items: flex-start;">
   <div style="flex: 1;">
-    <img src="images/profile.png" alt="Paper image" style="max-width: 100%; height: auto;">
+    <img src="profile.png" alt="Paper image" style="max-width: 100%; height: auto;">
   </div>
   <div style="flex: 3; padding-left: 15px;">
     <strong>Closely Interactive Human Reconstruction with Proxemics and Physics-Guided Adaption</strong><br>
