@@ -15,16 +15,15 @@ I am very fortunate to be advised by [Prof. Yangang Wang](https://www.yangangwan
 
 Publications
 ======
----
 
 <div style="display: flex; align-items: flex-start;">
   <div style="flex: 1;">
     <img src="/path-to-image/image1.png" alt="Paper image" style="max-width: 100%; height: auto;">
   </div>
   <div style="flex: 3; padding-left: 15px;">
-    <strong>Paper Title Number 1</strong><br>
-    Your Name, You<br>
-    <i>Journal 1</i><br>
+    <strong>Reconstructing Interacting Hands with Interaction Prior from Monocular Images</strong><br>
+    Binghui Zuo, Zimeng Zhao, <strong>Wenqian Sun</strong>, Wei Xie, Zhou Xue and Yangang Wang<br>
+    <i>IEEE/CVF International Conference on Computer Vision (<strong>ICCV</strong>), 2023</i><br>
     2009-10-01<br><br>
     [<a href="http://academicpages.github.io/files/paper1.pdf">Paper</a>] [<a href="http://academicpages.github.io/files/slides1.pdf">Project Page</a>]
   </div>
