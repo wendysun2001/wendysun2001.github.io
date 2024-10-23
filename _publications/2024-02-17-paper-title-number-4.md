@@ -13,7 +13,7 @@ citation: 'Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1
 
 <div style="display: flex; align-items: flex-start;">
   <div style="flex: 1;">
-    <img src="/path-to-image/image1.png" alt="Paper image" style="max-width: 100%; height: auto;">
+    <img src="/images/profile_swq.png" alt="Paper image" style="max-width: 100%; height: auto;">
   </div>
   <div style="flex: 3; padding-left: 15px;">
     <strong>Paper Title Number 1</strong><br>
