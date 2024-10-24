@@ -11,7 +11,7 @@ I'm a second-year graduate student at the [School of Automation](https://automat
 
 I am very fortunate to be advised by [Prof. Yangang Wang](https://www.yangangwang.com/). Before that, I received my bachelor's degree from the [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/).
 
-[Email](mailto:wendysun0107@gmail.com) / [Github](https://github.com/hql0107)
+[Email](mailto:wendysun0107@gmail.com) / [Github](https://github.com/wendysun2001)
 
 <h1>Publications</h1>
 
@@ -71,7 +71,7 @@ I am very fortunate to be advised by [Prof. Yangang Wang](https://www.yangangwan
     <div class="content" style="flex: 3; padding-left: 15px;">
         <strong>Motion Synthesis Framework for Hand-Object Interaction</strong> (Under Review)<br>
         This project addresses <strong>hand-object interaction</strong> and proposes a two-stage motion synthesis framework with diffusion for <strong>two hands and articulated objects</strong>.<br>
-       [<a href="https://github.com/hql0107">Code</a>] [<a href="https://hql0107.github.io/wendysun.github.io/images/handcollb.mp4">Demo</a>] 
+       [<a href="https://github.com/wendysun2001">Code</a>] [<a href="https://github.com/wendysun2001/wendysun2001.github.io/images/handcollb.mp4">Demo</a>] 
     </div>
 </div>
 
@@ -87,7 +87,7 @@ I am very fortunate to be advised by [Prof. Yangang Wang](https://www.yangangwan
     <div class="content" style="flex: 3; padding-left: 15px;">
         <strong>Task to Atom Skill</strong><br>
         This project focuses on segmenting and decomposing two-hand tasks to identify the atom actions, facilitating data processing to further assist in robotic skill learning.<br>
-       [<a href="https://github.com/hql0107/task2key2atom">Code</a>]
+       [<a href="https://github.com/wendysun2001/task2key2atom">Code</a>]
     </div>
 </div>
 
