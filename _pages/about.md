@@ -48,7 +48,7 @@ Publications
 
 <div style="display: flex; align-items: flex-start;">
   <div style="flex: 1;">
-    <img src="images/Interprior.png" alt="Paper image style="max-width: 100%; height: auto;">
+    <img src="images/Interprior.png" alt="Paper image" style="max-width: 100%; height: auto;">
   </div>
   <div style="flex: 3; padding-left: 15px;">
     <strong>Reconstructing Interacting Hands with Interaction Prior from Monocular Images</strong><br>
