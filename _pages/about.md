@@ -86,7 +86,7 @@ I am very fortunate to be advised by [Prof. Yangang Wang](https://www.yangangwan
     </div>
     <div class="content" style="flex: 3; padding-left: 15px;">
         <strong>Task to Atom Skill</strong><br>
-        This project focuses on segmenting and decomposing two-hand tasks to identify the original actions, facilitating data processing to further assist in robotic skill learning.<br>
+        This project focuses on segmenting and decomposing two-hand tasks to identify the atom actions, facilitating data processing to further assist in robotic skill learning.<br>
        [<a href="https://github.com/hql0107/task2key2atom">Code</a>]
     </div>
 </div>
