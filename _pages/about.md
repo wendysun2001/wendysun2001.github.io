@@ -18,13 +18,13 @@ Publications
 
 <div style="display: flex; align-items: flex-start;">
   <div style="flex: 1;">
-    <img src="images/Interprior.png" style="max-width: 50%; height: auto;">
+    <img src="images/Interprior.png" style="max-width: 100%; height: auto;">
   </div>
   <div style="flex: 3; padding-left: 15px;">
     <strong>Reconstructing Interacting Hands with Interaction Prior from Monocular Images</strong><br>
     Binghui Zuo, Zimeng Zhao, <strong>Wenqian Sun</strong>, Wei Xie, Zhou Xue and Yangang Wang<br>
     <i>IEEE/CVF International Conference on Computer Vision (<strong>ICCV</strong>), 2023</i><br>
-   The key idea is first to construct a two-hand interaction prior and recast the interaction reconstruction task as the conditional sampling from the prior.<br><br>
+<!--    The key idea is first to construct a two-hand interaction prior and recast the interaction reconstruction task as the conditional sampling from the prior.<br><br> -->
     [<a href="https://arxiv.org/abs/2308.14082">Paper</a>] [<a href="https://www.yangangwang.com/papers/iccv2023_interprior/BinghuiZuo-ICCV2023_InterPrior.html">Project Page</a>] [<a href="https://github.com/binghui-z/InterPrior_pytorch">Code [comming soon]</a>]
   </div>
 </div>
