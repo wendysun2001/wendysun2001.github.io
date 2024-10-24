@@ -64,17 +64,30 @@ I am very fortunate to be advised by [Prof. Yangang Wang](https://www.yangangwan
 <div class="container" style="display: flex; align-items: flex-start;">
     <div class="image" style="flex: 1;">
         <video controls autoplay muted style="max-width: 100%; height: auto;">
-            <source src="images/handcollb.mp4" type="video/mp4">
+            <source src="images/handcollb_1.mp4" type="video/mp4">
             Your browser does not support the video tag. Please <a href="http://path-to-your-demo-video.mp4">click here to watch the video</a>.
         </video>
     </div>
     <div class="content" style="flex: 3; padding-left: 15px;">
         <strong>Motion Synthesis Framework for Hand-Object Interaction</strong> (Under Review)<br>
         This project addresses <strong>hand-object interaction</strong> and proposes a two-stage motion synthesis framework with diffusion for <strong>two hands and articulated objects</strong>.<br>
-       [<a href="https://github.com/hql0107">Code [comming soon]</a>] [<a href="https://hql0107.github.io/wendysun.github.io/images/handcollb.mp4">Demo</a>] 
+       [<a href="https://github.com/hql0107">Code</a>] [<a href="https://hql0107.github.io/wendysun.github.io/images/handcollb.mp4">Demo</a>] 
     </div>
 </div>
 
+<div class="container" style="display: flex; align-items: flex-start;">
+    <div class="image" style="flex: 1;">
+        <video controls autoplay muted style="max-width: 100%; height: auto;">
+            <source src="images/atom.mp4" type="video/mp4">
+            Your browser does not support the video tag. Please <a href="http://path-to-your-demo-video.mp4">click here to watch the video</a>.
+        </video>
+    </div>
+    <div class="content" style="flex: 3; padding-left: 15px;">
+        <strong>Task to Atom Skill</strong><br>
+        This project focuses on segmenting and decomposing two-hand tasks to identify the original actions, facilitating data processing to further assist in robotic skill learning.<br>
+       [<a href="https://github.com/hql0107/task2key2atom">Code</a>]
+    </div>
+</div>
 
 
 
