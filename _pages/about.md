@@ -69,7 +69,7 @@ Projects
     </div>
     <div class="content" style="flex: 3; padding-left: 15px;">
         <strong>Motion Synthesis Framework for Hands-Object Interaction</strong><br>
-        This project addresses <strong>hand-object interaction</strong> and proposes a two-stage motion synthesis framework for <strong>two hands and articulated objects</strong>. <br>
+        This project addresses <strong>hand-object interaction</strong> and proposes a two-stage motion synthesis framework with diffusion for <strong>two hands and articulated objects</strong>. <br>
 <!--           The first stage synthesizes two-hand motion based on a target state, while the second combines hand motion with the target to generate aligned object motion. We also introduce a module to enhance interaction patterns and use bounding boxes for object representation, making the framework versatile.<br> -->     
     </div>
 </div>
