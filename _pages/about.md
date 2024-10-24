@@ -68,12 +68,9 @@ Projects
         <img src="path-to-your-project-image.png" alt="Project Image" style="max-width: 100%; height: auto;">
     </div>
     <div class="content" style="flex: 3; padding-left: 15px;">
-        <strong>Motion Synthesis Framework for Hand-Object Interaction</strong><br>
-        <p>This project focuses on the task of <strong>hand-object interaction</strong>, specifically the motion synthesis problem between <strong>two hands and articulated objects</strong>. We propose a two-stage motion synthesis framework: in the first stage, two-hand motion is synthesized based on a target state; in the second stage, the hand motion and target state are combined to generate object motion that aligns with it, simplifying the complex multi-entity motion synthesis process.</p>
-
-        <p>To ensure strong correlations between hand and object motions, we incorporate a module in the motion synthesis process that enhances rational interaction patterns. Additionally, we propose a novel object representation using bounding boxes to describe object states, making the framework applicable to a wide range of interactions.</p>
-
-        <p>Experiments on multiple datasets demonstrate the effectiveness of our method in synthesizing interaction between hands and both rigid and articulated objects. The code for this project will be released for research purposes.</p>
+        <strong>Motion Synthesis Framework for Hands-Object Interaction</strong><br>
+        This project addresses <strong>hand-object interaction</strong> and proposes a two-stage motion synthesis framework for <strong>two hands and articulated objects</strong>. <br>
+<!--           The first stage synthesizes two-hand motion based on a target state, while the second combines hand motion with the target to generate aligned object motion. We also introduce a module to enhance interaction patterns and use bounding boxes for object representation, making the framework versatile.<br> -->     
     </div>
 </div>
 
