@@ -63,15 +63,15 @@ I am very fortunate to be advised by [Prof. Yangang Wang](https://www.yangangwan
 <h1>Projects</h1>
 <div class="container">
     <div class="image">
-        <video width="360" height="240" controls style="max-width: 100%; height: auto;">
+        <video width="180" height="120" controls style="max-width: 100%; height: auto;">
             <source src="images/handcollb.mp4" type="video/mp4">
-            Your browser does not support the video tag. Please <a href="http://path-to-your-demo-video.mp4">click here to watch the video</a>.
+            Your browser does not support the video tag. Please <a href="https://hql0107.github.io/wendysun.github.io/images/handcollb.mp4">click here to watch the video</a>.
         </video>
     </div>
     <div class="content" style="flex: 3; padding-left: 15px;">
         <strong>Motion Synthesis Framework for Hand-Object Interaction</strong><br>
         This project addresses <strong>hand-object interaction</strong> and proposes a two-stage motion synthesis framework with diffusion for <strong>two hands and articulated objects</strong>.<br>
-       [<a href="https://github.com/hql0107">Code [comming soon]</a>]
+       [<a href="https://github.com/hql0107">Code [comming soon]</a>] [<a href="https://hql0107.github.io/wendysun.github.io/images/handcollb.mp4">Demo</a>] 
     </div>
 </div>
 
