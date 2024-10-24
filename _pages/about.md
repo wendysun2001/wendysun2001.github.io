@@ -63,7 +63,7 @@ I am very fortunate to be advised by [Prof. Yangang Wang](https://www.yangangwan
 <h1>Projects</h1>
 <div class="container" style="display: flex; align-items: flex-start;">
     <div class="image" style="flex: 1;">
-        <video width="480" height="360" controls muted style="max-width: 100%; height: auto;">
+        <video width="600" height="450" controls autoplay muted style="max-width: 100%; height: auto;">
             <source src="images/handcollb.mp4" type="video/mp4">
             Your browser does not support the video tag. Please <a href="http://path-to-your-demo-video.mp4">click here to watch the video</a>.
         </video>
