@@ -63,7 +63,7 @@ I am very fortunate to be advised by [Prof. Yangang Wang](https://www.yangangwan
 <h1>Projects</h1>
 <div class="container">
     <div class="image">
-        <video width="720" height="480" controls style="max-width: 100%; height: auto;">
+        <video width="360" height="240" controls style="max-width: 100%; height: auto;">
             <source src="images/handcollb.mp4" type="video/mp4">
             Your browser does not support the video tag. Please <a href="http://path-to-your-demo-video.mp4">click here to watch the video</a>.
         </video>
