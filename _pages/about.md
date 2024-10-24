@@ -22,7 +22,7 @@ Publications
   </div>
   <div style="flex: 3; padding-left: 15px;">
     <strong>GraspDiff: Grasping Generation for Hand-Object Interaction With Multimodal Guided Diffusion</strong><br>
-    Binghui Zuo ,Zimeng Zhao, <strong>Wenqian Sun</strong>, Xiaohan Yuan, Zhipeng Yu, Yangang Wang<br>
+    Binghui Zuo, Zimeng Zhao, <strong>Wenqian Sun</strong>, Xiaohan Yuan, Zhipeng Yu and Yangang Wang<br>
     <i>IEEE Transactions on Visualization and Computer Graphics (TVCG)</i><br>
 <!--     2015-10-01<br><br> -->
     [<a href="https://ieeexplore.ieee.org/document/10689328">Paper</a>]
