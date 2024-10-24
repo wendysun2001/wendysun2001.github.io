@@ -60,3 +60,29 @@ Publications
 </div>
 
 ---
+
+Projects
+======
+
+---
+title: "Project: Motion Synthesis Framework for Hand-Object Interaction (Under Review)"
+collection: projects
+permalink: /projects/hand-object-interaction
+excerpt: 'This project explores interaction motion synthesis between two hands and articulated objects using a two-stage framework.'
+date: 2024-10-01
+project_image: 'path-to-your-project-image.png'
+---
+
+This project focuses on the task of **hand-object interaction**, specifically the motion synthesis problem between **two hands and articulated objects**. We propose a two-stage motion synthesis framework: in the first stage, two-hand motion is synthesized based on a target state; in the second stage, the hand motion and target state are combined to generate object motion that aligns with it, simplifying the complex multi-entity motion synthesis process.
+
+To ensure strong correlations between hand and object motions, we incorporate a module in the motion synthesis process that enhances rational interaction patterns. Additionally, we propose a novel object representation using bounding boxes to describe object states, making the framework applicable to a wide range of interactions.
+
+Experiments on multiple datasets demonstrate the effectiveness of our method in synthesizing interaction between hands and both rigid and articulated objects. The code for this project will be released for research purposes.
+
+### Project Demo Video
+
+<video width="720" height="480" controls>
+  <source src="http://path-to-your-demo-video.mp4" type="video/mp4">
+  Your browser does not support the video tag. Please <a href="http://path-to-your-demo-video.mp4">click here to watch the video</a>.
+</video>
+
