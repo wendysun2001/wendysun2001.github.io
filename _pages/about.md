@@ -15,6 +15,7 @@ I am very fortunate to be advised by [Prof. Yangang Wang](https://www.yangangwan
 
 Publications
 ======
+<h1>Publications</h1>
 
 <div style="display: flex; align-items: flex-start;">
   <div style="flex: 1;">
@@ -61,16 +62,11 @@ Publications
 
 ---
 
-Projects
-======
+<h1>Projects</h1>
 <div class="container">
-    <div class="image">
-        <img src="images/handcollb.png" alt="Project Image" style="max-width: 100%; height: auto;">
-    </div>
     <div class="content" style="flex: 3; padding-left: 15px;">
-        <strong>Motion Synthesis Framework for Hands-Object Interaction</strong><br>
-        This project addresses <strong>hand-object interaction</strong> and proposes a two-stage motion synthesis framework with diffusion for <strong>two hands and articulated objects</strong>. <br>
-<!--           The first stage synthesizes two-hand motion based on a target state, while the second combines hand motion with the target to generate aligned object motion. We also introduce a module to enhance interaction patterns and use bounding boxes for object representation, making the framework versatile.<br> -->     
+        <strong>Motion Synthesis Framework for Hand-Object Interaction</strong><br>
+        This project addresses <strong>hand-object interaction</strong> and proposes a two-stage motion synthesis framework with diffusion for <strong>two hands and articulated objects</strong>.<br>
     </div>
 </div>
 
@@ -81,5 +77,6 @@ Projects
         Your browser does not support the video tag. Please <a href="http://path-to-your-demo-video.mp4">click here to watch the video</a>.
     </video>
 </section>
+
 
 
