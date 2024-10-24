@@ -65,7 +65,7 @@ Projects
 ======
 <div class="container">
     <div class="image">
-        <img src="path-to-your-project-image.png" alt="Project Image" style="max-width: 100%; height: auto;">
+        <img src="images/handcollb.png" alt="Project Image" style="max-width: 100%; height: auto;">
     </div>
     <div class="content" style="flex: 3; padding-left: 15px;">
         <strong>Motion Synthesis Framework for Hands-Object Interaction</strong><br>
@@ -77,7 +77,7 @@ Projects
 <section>
     <h2>Project Demo Video</h2>
     <video width="720" height="480" controls>
-        <source src="http://path-to-your-demo-video.mp4" type="video/mp4">
+        <source src="images/handcollb.mp4" type="video/mp4">
         Your browser does not support the video tag. Please <a href="http://path-to-your-demo-video.mp4">click here to watch the video</a>.
     </video>
 </section>
