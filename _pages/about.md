@@ -18,7 +18,37 @@ Publications
 
 <div style="display: flex; align-items: flex-start;">
   <div style="flex: 1;">
-    <img src="images/Interprior.png" style="max-width: 100%; height: auto;">
+    <img src="images/GraspDiff.png" alt="Paper image" style="max-width: 100%; height: auto;">
+  </div>
+  <div style="flex: 3; padding-left: 15px;">
+    <strong>GraspDiff: Grasping Generation for Hand-Object Interaction With Multimodal Guided Diffusion</strong><br>
+    Binghui Zuo ,Zimeng Zhao, <strong>Wenqian Sun</strong>, Xiaohan Yuan, Zhipeng Yu, Yangang Wang<br>
+    <i>IEEE Transactions on Visualization and Computer Graphics (TVCG)</i><br>
+<!--     2015-10-01<br><br> -->
+    [<a href="https://ieeexplore.ieee.org/document/10689328">Paper</a>]
+  </div>
+</div>
+
+---
+
+<div style="display: flex; align-items: flex-start;">
+  <div style="flex: 1;">
+    <img src="images/pose.png" alt="Paper image" style="max-width: 100%; height: auto;">
+  </div>
+  <div style="flex: 3; padding-left: 15px;">
+    <strong>Accurate and Real-time Variant Hand Pose Estimation Based on Gray Code Bounding Box Representation</strong><br>
+    Yangang Wang, <strong>Wenqian Sun</strong>, and Ruting Rao<br>
+    <i>IEEE Sensors Journal, 2024</i><br>
+<!--     2010-10-01<br><br> -->
+    [<a href="https://ieeexplore.ieee.org/document/10506333">Paper</a>]
+  </div>
+</div>
+
+---
+
+<div style="display: flex; align-items: flex-start;">
+  <div style="flex: 1;">
+    <img src="images/Interprior.png" alt="Paper image style="max-width: 100%; height: auto;">
   </div>
   <div style="flex: 3; padding-left: 15px;">
     <strong>Reconstructing Interacting Hands with Interaction Prior from Monocular Images</strong><br>
@@ -30,45 +60,3 @@ Publications
 </div>
 
 ---
-
-<div style="display: flex; align-items: flex-start;">
-  <div style="flex: 1;">
-    <img src="/path-to-image/image2.png" alt="Paper image" style="max-width: 100%; height: auto;">
-  </div>
-  <div style="flex: 3; padding-left: 15px;">
-    <strong>Paper Title Number 2</strong><br>
-    Your Name, You<br>
-    <i>Journal 1</i><br>
-    2010-10-01<br><br>
-    [<a href="http://academicpages.github.io/files/paper2.pdf">Paper</a>] [<a href="http://academicpages.github.io/files/slides2.pdf">Project Page</a>]
-  </div>
-</div>
-
----
-
-title: "Paper Title Number 3"
-collection: publications
-category: manuscripts
-permalink: /publication/paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).'
----
-
-<div style="display: flex; align-items: flex-start;">
-  <div style="flex: 1;">
-    <img src="/path-to-image/image3.png" alt="Paper image" style="max-width: 100%; height: auto;">
-  </div>
-  <div style="flex: 3; padding-left: 15px;">
-    <strong>Paper Title Number 3</strong><br>
-    Your Name, You<br>
-    <i>Journal 1</i><br>
-    2015-10-01<br><br>
-    [<a href="http://academicpages.github.io/files/paper3.pdf">Paper</a>] [<a href="http://academicpages.github.io/files/slides3.pdf">Project Page</a>]
-  </div>
-</div>
-
-
