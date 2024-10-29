@@ -85,8 +85,8 @@ I am very fortunate to be advised by [Prof. Yangang Wang](https://www.yangangwan
         </video>
     </div>
     <div class="content" style="flex: 3; padding-left: 15px;">
-        <strong>Task to Atom Skill</strong><br>
-        This project focuses on segmenting and decomposing two-hand tasks to identify the atom actions, facilitating data processing to further assist in robotic skill learning.<br>
+        <strong>Task to Atom Action Segmentation</strong><br>
+        This project focuses on segmenting and decomposing 3D hand-object interaction motion to identify the atom actions, facilitating data processing to further assist in robotic skill learning.<br>
        [<a href="https://github.com/wendysun2001/task2key2atom">Code</a>]
     </div>
 </div>
@@ -96,9 +96,9 @@ I am very fortunate to be advised by [Prof. Yangang Wang](https://www.yangangwan
 <div class="container" style="display: flex; align-items: flex-start;">
     <div class="content" style="flex: 3;">
         <strong>Dexterous Manipulation Transfer</strong><br>
-        PyBullet Implementation (<i>ECCV 2024<i>)<br>
+        PyBullet Implementation <a href="https://meowuu7.github.io/QuasiSim/">QuasiSim</a> (<i>ECCV 2024<i>)<br>
 <!--         <a href="link-to-your-code-repository" target="_blank">[Code]</a> <a href="path-to-your-demo-video.mp4" target="_blank">[Demo]</a><br> -->
-        This project replicates the ECCV paper <em>“QuasiSim: Parameterized Quasi-Physical Simulators for Dexterous Manipulations Transfer”</em>. We have implemented the single-hand object grab tracking task in PyBullet and are expanding to dual-hand and multi-object tracking, with plans for migration to the Isaac Gym platform.
+        This project replicates the ECCV paper <em>QuasiSim</em>. We have implemented the single-hand object grab tracking task in PyBullet and are expanding to two-hand and multi-object tracking, with plans for migration to the Isaac Gym platform.
     </div>
 </div>
 
