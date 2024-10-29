@@ -69,7 +69,7 @@ I am very fortunate to be advised by [Prof. Yangang Wang](https://www.yangangwan
         </video>
     </div>
     <div class="content" style="flex: 3; padding-left: 15px;">
-        <strong>Motion Synthesis Framework for Hand-Object Interaction</strong> (Under Review)<br>
+        <strong>Motion Synthesis Framework for Hand-Object Interaction</strong> (First-author Under Review)<br>
         This project addresses <strong>hand-object interaction</strong> and proposes a two-stage motion synthesis framework with diffusion for <strong>two hands and articulated objects</strong>.<br>
        [<a href="https://github.com/wendysun2001">Code</a>] 
     </div>
