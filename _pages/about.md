@@ -106,6 +106,7 @@ I am very fortunate to be advised by [Prof. Yangang Wang](https://www.yangangwan
         This project replicates the ECCV paper <em>QuasiSim</em>. We have implemented the single-hand object grab tracking task in PyBullet and are expanding to two-hand and multi-object tracking, with plans for migration to the Isaac Gym platform.<br>
     </div>
 </div>
+---
 
 
 
