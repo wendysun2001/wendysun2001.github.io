@@ -104,7 +104,7 @@ I am very fortunate to be advised by [Prof. Yangang Wang](https://www.yangangwan
         <strong>Dexterous Manipulation Transfer</strong><br>
         PyBullet Implementation <a href="https://meowuu7.github.io/QuasiSim/">QuasiSim</a> (<i>ECCV 2024<i>)<br>
 <!--         <a href="link-to-your-code-repository" target="_blank">[Code]</a> <a href="path-to-your-demo-video.mp4" target="_blank">[Demo]</a><br> -->
-        This project replicates the ECCV paper <em>QuasiSim</em>. We have implemented the single-hand object grab tracking task in PyBullet and are expanding to two-hand and multi-object tracking, with plans for migration to the Isaac Gym platform.
+        This project replicates the ECCV paper <em>QuasiSim</em>. We have implemented the single-hand object grab tracking task in PyBullet and are expanding to two-hand and multi-object tracking, with plans for migration to the Isaac Gym platform.<br>
     </div>
 </div>
 
