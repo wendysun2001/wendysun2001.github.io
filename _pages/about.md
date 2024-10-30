@@ -94,7 +94,13 @@ I am very fortunate to be advised by [Prof. Yangang Wang](https://www.yangangwan
 ---
 
 <div class="container" style="display: flex; align-items: flex-start;">
-    <div class="content" style="flex: 3;">
+    <div class="image" style="flex: 1;">
+        <video controls autoplay muted style="max-width: 100%; height: auto;">
+            <source src="images/pybullet.mp4" type="video/mp4">
+            Your browser does not support the video tag. Please <a href="http://path-to-your-demo-video.mp4">click here to watch the video</a>.
+        </video>
+    </div>
+    <div class="content" style="flex: 3;" padding-left: 15px;">
         <strong>Dexterous Manipulation Transfer</strong><br>
         PyBullet Implementation <a href="https://meowuu7.github.io/QuasiSim/">QuasiSim</a> (<i>ECCV 2024<i>)<br>
 <!--         <a href="link-to-your-code-repository" target="_blank">[Code]</a> <a href="path-to-your-demo-video.mp4" target="_blank">[Demo]</a><br> -->
