@@ -69,7 +69,7 @@ I am very fortunate to be advised by [Prof. Yangang Wang](https://www.yangangwan
     Binghui Zuo, Zimeng Zhao, <strong>Wenqian Sun</strong>, Wei Xie, Zhou Xue and Yangang Wang<br>
     <i>IEEE/CVF International Conference on Computer Vision (<strong>ICCV</strong>), 2023</i><br>
 <!--    The key idea is first to construct a two-hand interaction prior and recast the interaction reconstruction task as the conditional sampling from the prior.<br><br> -->
-    [<a href="https://arxiv.org/abs/2308.14082">Paper</a>] [<a href="https://www.yangangwang.com/papers/iccv2023_interprior/BinghuiZuo-ICCV2023_InterPrior.html">Project Page</a>] [<a href="https://github.com/binghui-z/InterPrior_pytorch">Code [comming soon]</a>]
+    [<a href="https://arxiv.org/abs/2308.14082">Paper</a>] [<a href="https://www.yangangwang.com/papers/iccv2023_interprior/BinghuiZuo-ICCV2023_InterPrior.html">Project Page</a>] 
   </div>
 </div>
 
