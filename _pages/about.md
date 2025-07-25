@@ -17,16 +17,16 @@ I am very fortunate to be advised by [Prof. Yangang Wang](https://www.yangangwan
 <div style="display: flex; align-items: flex-start;">
     <div style="flex: 1;"></div>
     <div style="flex: 3; padding-left: 15px;">
-        <strong>Research Intern</strong>, Multi-modal Foundation Models for Humanoid Robots<br> 
-        <i>Light Robotics</i><br>      
-        <span>[2025/06—Present]</span><br><br>      
+        <strong>Antgroup RoboticsX</strong>, Research Intern<br>     
+        <i>Reinforcement Learning for General Grasping with Dexterous Robotic Hands</i><br>      
+        <span>[2025/06—2025/07]</span><br><br>
     </div>
 </div>
 <div style="display: flex; align-items: flex-start;">
     <div style="flex: 1;"></div>
     <div style="flex: 3; padding-left: 15px;">
         <strong>Tencent RoboticsX</strong>, Research Intern<br>     
-        <i>Data Optimization and Imitation Learning Algorithms for Fine Manipulation with Dexterous Robotic Hand</i><br>      
+        <i>Data Optimization and Imitation Learning for Fine Manipulation with Dexterous Robotic Hand</i><br>      
         <span>[2024/12—2025/05]</span><br><br>
     </div>
 </div>
