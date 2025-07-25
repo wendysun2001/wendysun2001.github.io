@@ -16,7 +16,7 @@ I am very fortunate to be advised by [Prof. Yangang Wang](https://www.yangangwan
 <h1>Experience</h1>
 <div style="display: flex; flex-direction: column; padding-bottom: 20px;">
     <div style="padding: 5px 0;">
-       [2025/06—2025/07] | <strong>Antgroup RoboticsX</strong>, Research Intern<br>
+       [2025/06—Present] | <strong>Antgroup Lingbo</strong>, Research Intern<br>
         <i>Reinforcement Learning for General Grasping with Dexterous Robotic Hands</i>
     </div>
 </div>
