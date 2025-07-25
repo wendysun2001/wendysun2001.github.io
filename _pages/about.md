@@ -17,12 +17,27 @@ I am very fortunate to be advised by [Prof. Yangang Wang](https://www.yangangwan
 
 <div style="display: flex; align-items: flex-start;">
   <div style="flex: 1;">
-    <img src="images/GraspDiff.png" alt="Paper image" style="max-width: 100%; height: auto;">
+    <img src="images/NP.png" alt="Paper image" style="max-width: 100%; height: auto;">
   </div>
   <div style="flex: 3; padding-left: 15px;">
     <strong>GraspDiff: Grasping Generation for Hand-Object Interaction With Multimodal Guided Diffusion</strong><br>
     Binghui Zuo, Zimeng Zhao, <strong>Wenqian Sun</strong>, Xiaohan Yuan, Zhipeng Yu and Yangang Wang<br>
     <i>IEEE Transactions on Visualization and Computer Graphics (<strong>TVCG</strong>), 2024</i><br>
+<!--     2015-10-01<br><br> -->
+    [<a href="https://ieeexplore.ieee.org/document/10689328">Paper</a>]
+  </div>
+</div>
+
+---
+
+<div style="display: flex; align-items: flex-start;">
+  <div style="flex: 1;">
+    <img src="images/NPHand_0.jpg" alt="Paper image" style="max-width: 100%; height: auto;">
+  </div>
+  <div style="flex: 3; padding-left: 15px;">
+    <strong>NP-Hand: Novel Perspective Hand Image Synthesis Guided by Normals</strong><br>
+    Binghui Zuo,<strong>Wenqian Sun</strong>, Zimeng Zhao, Xiaohan Yuan, Yangang Wang<br>
+    <i>IEEE Transactions on Image Processing (<strong>TIP</strong>), 2025</i><br>
 <!--     2015-10-01<br><br> -->
     [<a href="https://ieeexplore.ieee.org/document/10689328">Paper</a>]
   </div>
