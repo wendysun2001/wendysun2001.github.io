@@ -25,17 +25,9 @@ I am very fortunate to be advised by [Prof. Yangang Wang](https://www.yangangwan
 <div style="display: flex; align-items: flex-start;">
     <div style="flex: 1;"></div>
     <div style="flex: 3; padding-left: 15px;">
-        <strong>Research Intern</strong>, Shanghai AI Laboratory<br>     
-        <i>Working closely with Dr. Jingbo Wang</i><br>      
-        <span>[2023/09—2025/06]</span><br><br>
-    </div>
-</div>
-<div style="display: flex; align-items: flex-start;">
-    <div style="flex: 1;"></div>
-    <div style="flex: 3; padding-left: 15px;">
-        <strong>Research Intern</strong>, Xiaohongshu Inc.<br>       
-        <i>Mentor: Haofan Wang</i><br>      
-        <span>[2023/03—2023/09]</span><br><br>      
+        <strong>Tencent RoboticsX</strong>, Research Intern<br>     
+        <i>Data Optimization and Imitation Learning Algorithms for Fine Manipulation with Dexterous Robotic Hand</i><br>      
+        <span>[2024/12—2025/05]</span><br><br>
     </div>
 </div>
 ---
