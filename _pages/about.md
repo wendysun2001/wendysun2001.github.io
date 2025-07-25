@@ -14,20 +14,16 @@ I am very fortunate to be advised by [Prof. Yangang Wang](https://www.yangangwan
 [Email](mailto:wendysun0107@gmail.com) / [Github](https://github.com/wendysun2001)
 
 <h1>Experience</h1>
-<div style="display: flex; align-items: flex-start;">
-    <div style="flex: 1;"></div>
-    <div style="flex: 3; padding-left: 15px;">
-        <strong>Antgroup RoboticsX</strong>, Research Intern<br>     
-        <i>Reinforcement Learning for General Grasping with Dexterous Robotic Hands</i><br>      
-        <span>[2025/06—2025/07]</span><br><br>
+<div style="display: flex; flex-direction: column; padding-bottom: 20px;">
+    <div style="padding: 5px 0;">
+       [2025/06—2025/07] | <strong>Antgroup RoboticsX</strong>, Research Intern<br>
+        <i>Reinforcement Learning for General Grasping with Dexterous Robotic Hands</i>
     </div>
 </div>
-<div style="display: flex; align-items: flex-start;">
-    <div style="flex: 1;"></div>
-    <div style="flex: 3; padding-left: 15px;">
-        <strong>Tencent RoboticsX</strong>, Research Intern<br>     
-        <i>Data Optimization and Imitation Learning for Fine Manipulation with Dexterous Robotic Hand</i><br>      
-        <span>[2024/12—2025/05]</span><br><br>
+<div style="display: flex; flex-direction: column; padding-bottom: 20px;">
+    <div style="padding: 5px 0;">
+        [2024/12—2025/05] | <strong>Tencent RoboticsX</strong>, Research Intern<br>
+        <i>Data Optimization and Imitation Learning for Fine Manipulation with Dexterous Robotic Hands</i>
     </div>
 </div>
 ---
