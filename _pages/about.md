@@ -13,6 +13,33 @@ I am very fortunate to be advised by [Prof. Yangang Wang](https://www.yangangwan
 
 [Email](mailto:wendysun0107@gmail.com) / [Github](https://github.com/wendysun2001)
 
+<h1>Experience</h1>
+<div style="display: flex; align-items: flex-start;">
+    <div style="flex: 1;"></div>
+    <div style="flex: 3; padding-left: 15px;">
+        <strong>Research Intern</strong>, Multi-modal Foundation Models for Humanoid Robots<br> 
+        <i>Light Robotics</i><br>      
+        <span>[2025/06—Present]</span><br><br>      
+    </div>
+</div>
+<div style="display: flex; align-items: flex-start;">
+    <div style="flex: 1;"></div>
+    <div style="flex: 3; padding-left: 15px;">
+        <strong>Research Intern</strong>, Shanghai AI Laboratory<br>     
+        <i>Working closely with Dr. Jingbo Wang</i><br>      
+        <span>[2023/09—2025/06]</span><br><br>
+    </div>
+</div>
+<div style="display: flex; align-items: flex-start;">
+    <div style="flex: 1;"></div>
+    <div style="flex: 3; padding-left: 15px;">
+        <strong>Research Intern</strong>, Xiaohongshu Inc.<br>       
+        <i>Mentor: Haofan Wang</i><br>      
+        <span>[2023/03—2023/09]</span><br><br>      
+    </div>
+</div>
+---
+
 <h1>Publications</h1>
 
 <div style="display: flex; align-items: flex-start;">
